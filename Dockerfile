@@ -1,4 +1,4 @@
-FROM docker.io/library/eclipse-temurin:23-jre-alpine
+FROM docker.io/library/eclipse-temurin:25-jre-alpine
 
 WORKDIR /opt
 
